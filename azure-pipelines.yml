@@ -19,7 +19,8 @@ steps:
     resourceGroupName: 'TestRG_Gayatri'
     location: 'West India'
     templateLocation: 'Linked artifact'
-    csmFile: 'https://raw.githubusercontent.com/v-gayatrij/TestRepo3/master/create_web_app/azuredeploy.json'
+    csmFile: ARMFiles/main.bicep
+    csmParametersFile: ARMFiles/main.parameters.json
     deploymentMode: 'Incremental'
 
 - script: |
