@@ -9,14 +9,12 @@ trigger:
 pool: server
  
 steps:
-- task: ManualValidation@1
+- task: ManualValidation@0
   inputs:
     notifyUsers: |
       v-gayjaiswal@microsoft.com
     approvers: |
-                
-                
-                
+      v-gayjaiswal1@outlook-int.com,   
                 
     instructions: 'Testing 1'
     onTimeout: 'resume'
