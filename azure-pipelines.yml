@@ -9,7 +9,7 @@ trigger:
 pool: server
  
 steps:
-- task: ManualValidation@0
+- task: ManualValidation@1
   inputs:
     notifyUsers: |
       v-gayjaiswal@microsoft.com
