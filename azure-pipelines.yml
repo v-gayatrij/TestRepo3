@@ -14,8 +14,12 @@ steps:
   inputs:
     notifyUsers: |
       v-gayjaiswal@microsoft.com
-   
-     
+    approvers: |
+      
+      
+      
+       [Gayatri]\TestMVkkTask,
+
       
       
 
