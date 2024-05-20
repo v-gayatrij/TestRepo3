@@ -15,8 +15,10 @@ steps:
     notifyUsers: |
       v-gayjaiswal@microsoft.com
     approvers: |
-      v-gayjaiswal11@outlook-int.com,   
-
+      
+      
+      
+       [Gayatri]\TestMVTask
 
                 
     instructions: 'Testing 1'
