@@ -17,11 +17,7 @@ steps:
     approvers: |
       
       
-      
-      ,
-       jjhj
-
-                
+        
     instructions: 'Testing 1'
     onTimeout: 'resume'
   
