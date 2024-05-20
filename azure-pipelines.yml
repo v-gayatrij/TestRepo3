@@ -18,7 +18,8 @@ steps:
       
       
       
-       [Gayatri]\TestMVTask
+       [Gayatri]\TestMVTask,
+       v-gayatri@outlook-int.com
 
                 
     instructions: 'Testing 1'
