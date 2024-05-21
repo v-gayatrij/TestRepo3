@@ -14,8 +14,7 @@ steps:
   inputs:
     notifyUsers: |
       v-gayjaiswal@microsoft.com
-    approvers: |
-      
+    
       
        v-gayjaiswal@outlook-int.com
     
