@@ -13,10 +13,10 @@ steps:
   timeoutInMinutes: 1
   inputs:
     notifyUsers: |
-      v-gayjaiswal@microsoft.com
-    
-      
-       v-gayjaiswal@outlook-int.com
+      v-gayjaiswal@microsoft.com,gayatri@outlook-int.com
+    approvers: |
+      v-gayjaiswal@microsoft.com,gayatri@outlook-int.com,
+      v-gayjaiswal@outlook-int.com
     
 
 
